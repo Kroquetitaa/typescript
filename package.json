@@ -22,6 +22,7 @@
     "typescript": "^4.8.3"
   },
   "dependencies": {
+    "@capacitor/camera": "^4.1.0",
     "date-fns": "^2.29.2",
     "lodash": "^4.17.21"
   }
